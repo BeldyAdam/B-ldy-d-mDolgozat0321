@@ -1,0 +1,19 @@
+.kiv {
+    background-color: antiquewhite;
+}
+
+.tartalom{
+    max-width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: center;
+    margin: auto;
+}
+.tartalom img{
+    max-width: 300px;
+    width: 100%;
+    margin: 5px;
+    border: 2px solid black;
+}
+
